@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "578558823141",
+    "firebase_url": "https://wordix-4d75c-default-rtdb.firebaseio.com",
+    "project_id": "wordix-4d75c",
+    "storage_bucket": "wordix-4d75c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578558823141:android:3c183d0c15f6c84df4e20c",
+        "android_client_info": {
+          "package_name": "com.example.wordix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMMVBJs6ByDKT4WtQqgbwpqtRD-nn6Py4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
